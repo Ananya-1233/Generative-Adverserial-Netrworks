@@ -1,2 +1,5 @@
 # Generative-Adverserial-Netrworks
-This repository contains three types of GANs for image generation, with varying capacities and techniques.
+A repository to illustrate the working of AC-GAN.
+
+
+AC-GAN stands for Auxilliary Classifier GAN, which
